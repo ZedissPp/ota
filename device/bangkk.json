@@ -1,1 +1,13 @@
-.
+{
+    "response": [
+        {
+            "datetime": 1775836039,
+            "filename": "axion-2.5-REVERIE-20260410-UNOFFICIAL-GMS-bangkk.zip",
+            "id": "8b01ffefe931aab0c00e5f7cbd60c574",
+            "romtype": "UNOFFICIAL",
+            "size": 1750847201,
+            "url": "https://cdn.axionos.org/bangkk/axion-2.5-REVERIE-20260410-UNOFFICIAL-GMS-bangkk.zip",
+            "version": "2.5"
+        }
+    ]
+}
