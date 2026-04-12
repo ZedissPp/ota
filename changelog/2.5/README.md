@@ -1,5 +1,8 @@
 # AXION AOSP REVERIE 2.5 GMS CORE | ZedissPp
 
+Support (Telegram)
+https://t.me/zedisspechat
+
 ---
 
 # Device Changelog
