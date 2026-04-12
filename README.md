@@ -3,5 +3,5 @@ No intention to harm the official project or anything else. Just unofficial main
 
 ---
 
-# Changelog
-https://github.com/ZedissPp/axion_changelogs
+# Support
+![Telegram](https://t.me/zedisspechat)
