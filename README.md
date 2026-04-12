@@ -2,7 +2,7 @@
 
 ---
 
-![descrição](/banner/axion_banner.jpg)
+![descrição](/banner/axion_banner.png)
 
 No intention to harm the official project or anything else. Just unofficial maintenance at no cost
 
