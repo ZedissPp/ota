@@ -4,4 +4,4 @@ No intention to harm the official project or anything else. Just unofficial main
 ---
 
 # Support
-![Telegram](https://t.me/zedisspechat)
+[Telegram](https://t.me/zedisspechat)
