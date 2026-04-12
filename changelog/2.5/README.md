@@ -1,4 +1,4 @@
-# AXION AOSP REVERIE 2.5 | ZedissPp
+# AXION AOSP REVERIE 2.5 GMS CORE | ZedissPp
 
 ---
 
@@ -7,6 +7,8 @@
 • Axion flags added. Except for the SELinux performance flags
 • Trees deleted and reinforced. Damn keys, that made me angry
 • Fixed Bluetooth not working
+• Swap GMS Full for Core
+• OTA repository allocation update and changelog
 
 # Notes
 • Included: MotCamera
