@@ -1,7 +1,6 @@
 # AXION AOSP REVERIE 2.5 GMS CORE | ZedissPp
 
-Support (Telegram)
-https://t.me/zedisspechat
+* [Grupo de Suporte](https://t.me/zedisspechat)
 
 ---
 
