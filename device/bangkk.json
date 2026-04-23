@@ -1,13 +1,13 @@
 {
     "response": [
-         {
-            "datetime": 1776630480,
-            "filename": "axion-2.5-REVERIE-20260412-UNOFFICIAL-GMS-bangkk.zip",
-            "id": "227882cd34fbb7465c51b63e262c9fba",
+        {
+            "datetime": 1776977436,
+            "filename": "axion-2.6-QUASIS-20260423-UNOFFICIAL-GMS-bangkk.zip",
+            "id": "e628a8398febb0f1cca86c351bcfc962",
             "romtype": "UNOFFICIAL",
-            "size": 1863602330,
-            "url": "https://github.com/ZedissPp/ota/releases/download/16.2/axion-2.5-REVERIE-20260412-UNOFFICIAL-GMS-bangkk.zip",
-            "version": "2.5"
-         }
+            "size": 1860826872,
+            "url": "https://cdn.axionos.org/bangkk/axion-2.6-QUASIS-20260423-UNOFFICIAL-GMS-bangkk.zip",
+            "version": "2.6"
+        }
     ]
 }
