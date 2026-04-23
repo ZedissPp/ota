@@ -1,12 +1,12 @@
-# OTA updates Bangkk AxionOS Unofficial
+# OTA updates Bangkk Ayaka Unofficial
 
 ---
 
-![descrição](/banner/axion_banner.png)
+![banner](banner/ayaka.jpg)
 
 No intention to harm the official project or anything else. Just unofficial maintenance at no cost
 
 ---
 
 # Support
-[Telegram](https://t.me/zedisspechat)
+[WhatsApp](https://chat.whatsapp.com/Filza0JeHktJnpqczXEXTo?mode=gi_t)
