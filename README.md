@@ -2,7 +2,7 @@
 
 ---
 
-![descrição](/banner/2.6.png)
+![descrição](/banner/2.6.jpg)
 
 No intention to harm the official project or anything else. Just unofficial maintenance at no cost
 
