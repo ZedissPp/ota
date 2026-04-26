@@ -7,22 +7,13 @@
 ---
 
 # Build
-• Dolby Atmos Sony
-• AxionFx
-• Lock screen information height
-• MotoCamera
-• Bypass Charge
-• Overlay for OTA
-• 
+• Include: Dolby Atmos Sony | AxionFx | MotoCamera | Bypass Charge | Overlay for OTA | Axion ScrollOptimizer | Doze action flags
+• Changed: Lock screen information height | GL Backpressure
+• Fixed: DT2W
 
 =================================
 
 # Source
-• Udfps icons
-• Axion-style icons for more apps
-• Udfps animations
-• Improvements to Dynamic Island
-• Bug fixes
-• Smoother and more eye-catching animations
-• Axion theme store with a new look
-• New version 2.6 with new codename QUASIS
+• Include: Udfps icons | Axion-style icons for more apps | Udfps animations | New version 2.6 with new codename QUASIS
+• Changed: Improvements to Dynamic Island | Smoother and more eye-catching animations
+• Fixed: Bugs related | Axion theme store with a new look (Obviously there's more, but that's all I observed in the new version 2.6)
