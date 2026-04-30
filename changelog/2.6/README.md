@@ -9,7 +9,7 @@
 # Build
 • Date: 26/04/2026
 • Maintainer: Doxy | Telegram: @doxyey
-• Include: Dolby Atmos Sony | AxionWallpaper Overlay | AxionFx | MotoCamera | Bypass Charge | Overlay for OTA | Axion ScrollOptimizer | Doze action flags
+• Include: Dolby Atmos Sony | AxionWallpaper Overlay | AxionFx | MotoCamera | Bypass Charge | Overlay for OTA | Axion ScrollOptimizer | Doze action flags | Branch erofs separated
 • Changed: Lock screen information height | GL Backpressure
 • Fixed: DT2W | Udfps icon animation offset
 
