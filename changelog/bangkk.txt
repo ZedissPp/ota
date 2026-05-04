@@ -1,0 +1,22 @@
+# Changelog
+
+---
+
+# Infinity X 3.10 | Moto G84 (bangkk)
+
+---
+
+# Build
+• Date: 26/04/2026
+• Build type: EROFS | GAPPS / VANILLA
+• Maintainer: Doxy | Telegram: @doxyey
+• Include: Dolby Atmos Sony | MotoCamera | Overlay for OTA
+• Changed: Lock screen information height | GL Backpressure
+• Fixed: DT2W
+
+=================================
+
+# Source
+• Include:
+• Changed:
+• Fixed:
