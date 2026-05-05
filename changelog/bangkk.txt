@@ -2,13 +2,13 @@
 
 ---
 
-# Infinity X 3.10 | Moto G84 (bangkk)
+# Lunaris Aosp 3.9 | Moto G84 (bangkk)
 
 ---
 
 # Build
-• Date: 26/04/2026
-• Build type: EROFS | GAPPS / VANILLA
+• Date: 26/05/2026
+• Build type: EROFS | GAPPS
 • Maintainer: Doxy | Telegram: @doxyey
 • Include: Dolby Atmos Sony | MotoCamera | Overlay for OTA
 • Changed: Lock screen information height | GL Backpressure
